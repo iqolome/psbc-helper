@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jf11480.psbchelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jf11480.psbchelper.MyBundle
 
 class MyApplicationService {
 
